@@ -1,3 +1,4 @@
 this is dev file
 
 reset 1 
+git branch merging concept
