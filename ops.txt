@@ -1,2 +1,1 @@
-this is ops file
-reset 2 
+this is ops file in main
